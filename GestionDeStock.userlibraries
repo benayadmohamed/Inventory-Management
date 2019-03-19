@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="jfoenix-8.0.7">
+    <archive path="C:/Users/simo-/Downloads/jfoenix-8.0.7.jar" />
+  </library>
+  <library name="mysql-connector-java-5.1.41-bin">
+    <archive path="C:/mysql-connector-java-5.1.41/mysql-connector-java-5.1.41-bin.jar" />
+  </library>
+  <library name="Spring MVC-4.3.14.RELEASE">
+    <archive path="C:/Users/simo-/IdeaProjects/untitled/lib/spring-webmvc-portlet-4.3.14.RELEASE.jar" />
+    <archive path="C:/Users/simo-/IdeaProjects/untitled/lib/spring-websocket-4.3.14.RELEASE.jar" />
+    <archive path="C:/Users/simo-/IdeaProjects/untitled/lib/spring-webmvc-4.3.14.RELEASE.jar" />
+    <archive path="C:/Users/simo-/IdeaProjects/untitled/lib/spring-web-4.3.14.RELEASE.jar" />
+  </library>
+  <library name="Spring MVC-4.3.14.RELEASE (2)">
+    <archive path="C:/Users/simo-/libSpring/spring-webmvc-portlet-4.3.14.RELEASE.jar" />
+    <archive path="C:/Users/simo-/libSpring/spring-web-4.3.14.RELEASE.jar" />
+    <archive path="C:/Users/simo-/libSpring/spring-websocket-4.3.14.RELEASE.jar" />
+    <archive path="C:/Users/simo-/libSpring/spring-webmvc-4.3.14.RELEASE.jar" />
+  </library>
+</eclipse-userlibraries>
+
